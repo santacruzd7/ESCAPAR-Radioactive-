@@ -1,0 +1,47 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7500M/7600M Series (ID=0x6841)
+    Vendor:   ATI
+    VRAM:     2031 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR2.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\David\Dropbox\ESCAPAR\ESCAPAR2.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR2.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\David\Dropbox\ESCAPAR\ESCAPAR2.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR2.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\David\Dropbox\ESCAPAR\ESCAPAR2.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.158 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR2.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR2.0_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2cd4 -> priority: 1 
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at Detonator.DefaultSmokeAMaterial () [0x00000] in <filename unknown>:0 
+  at Detonator.FillDefaultMaterials () [0x00000] in <filename unknown>:0 
+  at Detonator.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+BoomBridge:OnTriggerEnter(Collider)
+ 
+(Filename:  Line: -1)
+
+Level 'Menu' (-1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 272)
+
+Level 'Menu' (-1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 272)
+

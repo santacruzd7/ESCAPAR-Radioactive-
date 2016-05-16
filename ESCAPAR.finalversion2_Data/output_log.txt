@@ -1,0 +1,53 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7500M/7600M Series (ID=0x6841)
+    Vendor:   ATI
+    VRAM:     2031 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR.finalversion2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\David\Dropbox\ESCAPAR\ESCAPAR.finalversion2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR.finalversion2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\David\Dropbox\ESCAPAR\ESCAPAR.finalversion2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR.finalversion2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\David\Dropbox\ESCAPAR\ESCAPAR.finalversion2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.073 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR.finalversion2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR.finalversion2_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1ab4 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Shader 'Nature/Terrain/Standard': fallback shader 'Nature/Terrain/Diffuse' not found
+UnloadTime: 3.781378 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3827.
+Total: 2.453318 ms (FindLiveObjects: 0.371117 ms CreateObjectMapping: 0.246727 ms MarkObjects: 1.289880 ms  DeleteObjects: 0.541897 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 20ac -> priority: 1 
+WARNING: Shader Unsupported: 'HeatDistort' - All passes removed
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.649254 ms
+
+Unloading 428 unused Assets to reduce memory usage. Loaded Objects now: 392.
+Total: 4.109391 ms (FindLiveObjects: 0.096063 ms CreateObjectMapping: 0.097705 ms MarkObjects: 0.571866 ms  DeleteObjects: 3.339649 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 16cc -> priority: 1 
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.RectTransform:INTERNAL_set_anchorMin (UnityEngine.Vector2&)
+  at UnityEngine.RectTransform.set_anchorMin (Vector2 value) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Slider.UpdateVisuals () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Slider.OnRectTransformDimensionsChange () [0x00000] in <filename unknown>:0 
+UnityEngine.Canvas:set_scaleFactor(Single)
+UnityEngine.UI.CanvasScaler:SetScaleFactor(Single)
+UnityEngine.UI.CanvasScaler:OnDisable()
+ 
+(Filename:  Line: -1)
+

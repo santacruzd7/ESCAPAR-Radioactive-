@@ -1,0 +1,41 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7500M/7600M Series (ID=0x6841)
+    Vendor:   ATI
+    VRAM:     2031 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\David\Dropbox\ESCAPAR\ESCAPAR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\David\Dropbox\ESCAPAR\ESCAPAR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\David\Dropbox\ESCAPAR\ESCAPAR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.131 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\David\Dropbox\ESCAPAR\ESCAPAR_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1a24 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Shader 'Nature/Terrain/Standard': dependency 'BaseMapShader' shader 'Hidden/TerrainEngine/Splatmap/Standard-Base' not found
+UnloadTime: 8.988937 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1392.
+Total: 1.325186 ms (FindLiveObjects: 0.160106 ms CreateObjectMapping: 0.064863 ms MarkObjects: 0.634266 ms  DeleteObjects: 0.461844 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2e6c -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.200940 ms
+
+Unloading 190 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 3.198429 ms (FindLiveObjects: 0.059937 ms CreateObjectMapping: 0.041052 ms MarkObjects: 0.433518 ms  DeleteObjects: 2.659815 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 30ec -> priority: 1 
