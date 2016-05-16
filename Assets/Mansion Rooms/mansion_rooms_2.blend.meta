@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: c0e944e352abe404faa5e0d02381c2ff
+timeCreated: 1431281405
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Floor
+    100002: //RootNode
+    100004: Wall_Bottom
+    100006: Wall_East
+    100008: Wall_Middle_2
+    100010: Wall_Upper
+    100012: Wall_West
+    100014: Wall_Middle
+    100016: Wall_West_001
+    100018: Cube
+    100020: Cube_001
+    100022: Cube_002
+    100024: Cube_003
+    100026: Fundation
+    100028: Floor_Fundation
+    100030: Wall_Middle_Door
+    100032: Wall_West_Door
+    400000: Floor
+    400002: //RootNode
+    400004: Wall_Bottom
+    400006: Wall_East
+    400008: Wall_Middle_2
+    400010: Wall_Upper
+    400012: Wall_West
+    400014: Wall_Middle
+    400016: Wall_West_001
+    400018: Cube
+    400020: Cube_001
+    400022: Cube_002
+    400024: Cube_003
+    400026: Fundation
+    400028: Floor_Fundation
+    400030: Wall_Middle_Door
+    400032: Wall_West_Door
+    2300000: Floor
+    2300002: Wall_Bottom
+    2300004: Wall_East
+    2300006: Wall_Middle_2
+    2300008: Wall_Upper
+    2300010: Wall_West
+    2300012: Wall_Middle
+    2300014: Wall_West_001
+    2300016: Cube
+    2300018: Cube_001
+    2300020: Cube_002
+    2300022: Cube_003
+    2300024: Fundation
+    2300026: Floor_Fundation
+    2300028: Wall_Middle_Door
+    2300030: Wall_West_Door
+    3300000: Floor
+    3300002: Wall_Bottom
+    3300004: Wall_East
+    3300006: Wall_Middle_2
+    3300008: Wall_Upper
+    3300010: Wall_West
+    3300012: Wall_Middle
+    3300014: Wall_West_001
+    3300016: Cube
+    3300018: Cube_001
+    3300020: Cube_002
+    3300022: Cube_003
+    3300024: Fundation
+    3300026: Floor_Fundation
+    3300028: Wall_Middle_Door
+    3300030: Wall_West_Door
+    4300000: Wall_Middle_2
+    4300002: Wall_East
+    4300004: Wall_Bottom
+    4300006: Wall_West
+    4300008: Wall_Upper
+    4300010: Floor
+    4300012: Wall_Middle
+    4300014: Wall_West_001
+    4300016: Cube_003
+    4300018: Cube_002
+    4300020: Cube_001
+    4300022: Cube
+    4300024: Fundation
+    4300026: Wall_Middle_Door
+    4300028: Wall_West_Door
+    4300030: Floor_Fundation
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

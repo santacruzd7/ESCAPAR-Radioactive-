@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: fb69271c896720f4b8f3b00c27c857ec
+timeCreated: 1431287931
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Floor
+    100002: //RootNode
+    100004: Wall_Down
+    100006: Wall_Upper
+    100008: Wall_West
+    100010: Wall_West_001
+    100012: Floor_Extension
+    100014: Cylinder
+    100016: Cylinder_001
+    100018: Floor_Extension_001
+    100020: Cylinder_Hollow
+    100022: Floor_Extension_Hollow
+    100024: Wall_North
+    100026: Wall_South
+    400000: Floor
+    400002: //RootNode
+    400004: Wall_Down
+    400006: Wall_Upper
+    400008: Wall_West
+    400010: Wall_West_001
+    400012: Floor_Extension
+    400014: Cylinder
+    400016: Cylinder_001
+    400018: Floor_Extension_001
+    400020: Cylinder_Hollow
+    400022: Floor_Extension_Hollow
+    400024: Wall_North
+    400026: Wall_South
+    2300000: Floor
+    2300002: Wall_Down
+    2300004: Wall_Upper
+    2300006: Wall_West
+    2300008: Wall_West_001
+    2300010: //RootNode
+    2300012: Floor_Extension
+    2300014: Cylinder
+    2300016: Cylinder_001
+    2300018: Floor_Extension_001
+    2300020: Cylinder_Hollow
+    2300022: Floor_Extension_Hollow
+    2300024: Wall_North
+    2300026: Wall_South
+    3300000: Floor
+    3300002: Wall_Down
+    3300004: Wall_Upper
+    3300006: Wall_West
+    3300008: Wall_West_001
+    3300010: //RootNode
+    3300012: Floor_Extension
+    3300014: Cylinder
+    3300016: Cylinder_001
+    3300018: Floor_Extension_001
+    3300020: Cylinder_Hollow
+    3300022: Floor_Extension_Hollow
+    3300024: Wall_North
+    3300026: Wall_South
+    4300000: Wall_West_001
+    4300002: Wall_Down
+    4300004: Wall_West
+    4300006: Wall_Upper
+    4300008: Floor
+    4300010: Floor_Extension
+    4300012: Cylinder
+    4300014: Cylinder_001
+    4300016: Floor_Extension_001
+    4300018: Wall_North
+    4300020: Wall_South
+    4300022: Floor_Extension_Hollow
+    4300024: Cylinder_Hollow
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

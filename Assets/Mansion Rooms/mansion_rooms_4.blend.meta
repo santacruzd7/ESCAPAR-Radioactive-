@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 67c33aad88fc73448b0ca909416d3381
+timeCreated: 1431287255
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Floor
+    100002: //RootNode
+    100004: Wall_Down
+    100006: Wall_Upper
+    100008: Wall_West
+    100010: Wall_West_001
+    100012: Wall_East
+    100014: Wall_West_002
+    100016: Wall_Down_001
+    100018: Wall_West_Door
+    100020: Floor_Fundation
+    100022: Wall_East_001
+    100024: Wall_Middle
+    400000: Floor
+    400002: //RootNode
+    400004: Wall_Down
+    400006: Wall_Upper
+    400008: Wall_West
+    400010: Wall_West_001
+    400012: Wall_East
+    400014: Wall_West_002
+    400016: Wall_Down_001
+    400018: Wall_West_Door
+    400020: Floor_Fundation
+    400022: Wall_East_001
+    400024: Wall_Middle
+    2300000: Floor
+    2300002: Wall_Down
+    2300004: Wall_Upper
+    2300006: Wall_West
+    2300008: Wall_West_001
+    2300010: Wall_East
+    2300012: Wall_West_002
+    2300014: Wall_Down_001
+    2300016: Wall_West_Door
+    2300018: Floor_Fundation
+    2300020: Wall_East_001
+    2300022: Wall_Middle
+    3300000: Floor
+    3300002: Wall_Down
+    3300004: Wall_Upper
+    3300006: Wall_West
+    3300008: Wall_West_001
+    3300010: Wall_East
+    3300012: Wall_West_002
+    3300014: Wall_Down_001
+    3300016: Wall_West_Door
+    3300018: Floor_Fundation
+    3300020: Wall_East_001
+    3300022: Wall_Middle
+    4300000: Wall_West_001
+    4300002: Wall_Down
+    4300004: Wall_West
+    4300006: Wall_Upper
+    4300008: Floor
+    4300010: Wall_West_002
+    4300012: Wall_East
+    4300014: Wall_Down_001
+    4300016: Wall_West_Door
+    4300018: Floor_Fundation
+    4300020: Wall_East_001
+    4300022: Wall_Middle
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

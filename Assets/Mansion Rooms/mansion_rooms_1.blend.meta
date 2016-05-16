@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 0a8a1b0eaa5222a4c9afb222ff20edcb
+timeCreated: 1431238994
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Floor
+    100002: //RootNode
+    100004: Wall_Bottom
+    100006: Wall_Middle
+    100008: Wall_Upper
+    100010: Wall_West
+    100012: Wall_West_001
+    100014: Wall_East
+    100016: Wall_East_Floor
+    100018: Wall_Upper_001
+    100020: Wall_East_001
+    100022: Fundation
+    100024: Hole
+    100026: Hole_001
+    100028: Door
+    100030: Wall_East_Door
+    100032: Wall_Middle_Door
+    100034: Floor_Fundation
+    100036: Floor_Hole
+    100038: Wall_Upper_Door
+    400000: Floor
+    400002: //RootNode
+    400004: Wall_Bottom
+    400006: Wall_Middle
+    400008: Wall_Upper
+    400010: Wall_West
+    400012: Wall_West_001
+    400014: Wall_East
+    400016: Wall_East_Floor
+    400018: Wall_Upper_001
+    400020: Wall_East_001
+    400022: Fundation
+    400024: Hole
+    400026: Hole_001
+    400028: Door
+    400030: Wall_East_Door
+    400032: Wall_Middle_Door
+    400034: Floor_Fundation
+    400036: Floor_Hole
+    400038: Wall_Upper_Door
+    2300000: Floor
+    2300002: Wall_Bottom
+    2300004: Wall_Middle
+    2300006: Wall_Upper
+    2300008: Wall_West
+    2300010: Wall_West_001
+    2300012: Wall_East
+    2300014: Wall_East_Floor
+    2300016: Wall_Upper_001
+    2300018: Wall_East_001
+    2300020: Fundation
+    2300022: Hole
+    2300024: Hole_001
+    2300026: Door
+    2300028: Wall_East_Door
+    2300030: Wall_Middle_Door
+    2300032: Floor_Fundation
+    2300034: Floor_Hole
+    2300036: Wall_Upper_Door
+    3300000: Floor
+    3300002: Wall_Bottom
+    3300004: Wall_Middle
+    3300006: Wall_Upper
+    3300008: Wall_West
+    3300010: Wall_West_001
+    3300012: Wall_East
+    3300014: Wall_East_Floor
+    3300016: Wall_Upper_001
+    3300018: Wall_East_001
+    3300020: Fundation
+    3300022: Hole
+    3300024: Hole_001
+    3300026: Door
+    3300028: Wall_East_Door
+    3300030: Wall_Middle_Door
+    3300032: Floor_Fundation
+    3300034: Floor_Hole
+    3300036: Wall_Upper_Door
+    4300000: Wall_West_001
+    4300002: Wall_West
+    4300004: Wall_Bottom
+    4300006: Wall_Middle
+    4300008: Wall_Upper
+    4300010: Floor
+    4300012: Wall_East
+    4300014: Wall_Upper_001
+    4300016: Wall_East_Floor
+    4300018: Wall_East_001
+    4300020: Fundation
+    4300022: Hole
+    4300024: Hole_001
+    4300026: Door
+    4300028: Wall_East_Door
+    4300030: Wall_Middle_Door
+    4300032: Floor_Hole
+    4300034: Floor_Fundation
+    4300036: Wall_Upper_Door
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
